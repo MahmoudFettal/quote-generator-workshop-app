@@ -3,8 +3,7 @@ html {
 }
 
 body {
-  height: 100vh;
-  overflow: hidden;
+  min-height: 90vh;
   display: grid;
   grid-template-rows: 1fr 100px;
   flex-direction: column;
